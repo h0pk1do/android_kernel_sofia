@@ -1,0 +1,33 @@
+!<thin>
+//                                              230       `
+diagchar_core.o/
+diagchar_hdlc.o/
+diagfwd.o/
+diagfwd_peripheral.o/
+diagfwd_socket.o/
+diagfwd_rpmsg.o/
+diag_mux.o/
+diag_memorydevice.o/
+diag_usb.o/
+diagmem.o/
+diagfwd_cntl.o/
+diag_dci.o/
+diag_masks.o/
+diag_debugfs.o/
+diag_pcie.o/
+
+/0             /0           0     0     644     674872    `
+/17            /0           0     0     644     12680     `
+/34             0           0     0     644     233496    `
+/45             0           0     0     644     106328    `
+/67             0           0     0     644     345504    `
+/85            /0           0     0     644     191400    `
+/102            0           0     0     644     23360     `
+/114            0           0     0     644     138640    `
+/135            0           0     0     644     82208     `
+/147            0           0     0     644     140912    `
+/158            0           0     0     644     194192    `
+/174            0           0     0     644     286736    `
+/186            0           0     0     644     255840    `
+/200            0           0     0     644     197984    `
+/216            0           0     0     644     77480     `

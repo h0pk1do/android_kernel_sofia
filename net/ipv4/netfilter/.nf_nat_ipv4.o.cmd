@@ -1,0 +1,1 @@
+cmd_net/ipv4/netfilter/nf_nat_ipv4.o :=  rm -f net/ipv4/netfilter/nf_nat_ipv4.o; /home/justin/kernel/toolchain/bin/aarch64-linux-android-ar rcSTPD net/ipv4/netfilter/nf_nat_ipv4.o net/ipv4/netfilter/nf_nat_l3proto_ipv4.o net/ipv4/netfilter/nf_nat_proto_icmp.o 

@@ -1,0 +1,53 @@
+!<thin>
+//                                              838       `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+input-leds.o/
+evdev.o/
+keyboard/atkbd.o/
+keyboard/gpio_keys.o/
+touchscreen/of_touchscreen.o/
+touchscreen/hxchipset/himax_ic_incell_core.o/
+touchscreen/hxchipset/himax_ic_HX83112.o/
+touchscreen/hxchipset/himax_common.o/
+touchscreen/hxchipset/himax_platform.o/
+touchscreen/hxchipset/himax_debug.o/
+touchscreen/synaptics_tcm/synaptics_tcm_i2c.o/
+touchscreen/synaptics_tcm/synaptics_tcm_core.o/
+touchscreen/synaptics_tcm/synaptics_tcm_touch.o/
+touchscreen/synaptics_tcm/synaptics_tcm_device.o/
+touchscreen/synaptics_tcm/synaptics_tcm_testing.o/
+touchscreen/synaptics_tcm/synaptics_tcm_reflash.o/
+touchscreen/synaptics_tcm/synaptics_tcm_recovery.o/
+touchscreen/synaptics_tcm/synaptics_tcm_zeroflash.o/
+touchscreen/synaptics_tcm/synaptics_tcm_diagnostics.o/
+misc/qpnp-power-on.o/
+misc/uinput.o/
+
+/0              0           0     0     644     448376    `
+/9              0           0     0     644     108336    `
+/25             0           0     0     644     156544    `
+/37             0           0     0     644     145976    `
+/48             0           0     0     644     141752    `
+/62             0           0     0     644     430352    `
+/71             0           0     0     644     264760    `
+/89             0           0     0     644     223800    `
+/111            0           0     0     644     137488    `
+/141            0           0     0     644     277680    `
+/187            0           0     0     644     12056     `
+/229            0           0     0     644     222144    `
+/267            0           0     0     644     231936    `
+/307            0           0     0     644     395056    `
+/344            0           0     0     644     196160    `
+/391            0           0     0     644     506120    `
+/439            0           0     0     644     289160    `
+/488            0           0     0     644     202008    `
+/538            0           0     0     644     318608    `
+/589            0           0     0     644     299400    `
+/640            0           0     0     644     197320    `
+/692            0           0     0     644     219640    `
+/745            0           0     0     644     189232    `
+/800           /0           0     0     644     445264    `
+/822            0           0     0     644     271736    `

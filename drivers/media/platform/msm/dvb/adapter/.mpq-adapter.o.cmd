@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/msm/dvb/adapter/mpq-adapter.o := /home/justin/kernel/toolchain/bin/aarch64-linux-android-ld -EL  -maarch64linux   -r -o drivers/media/platform/msm/dvb/adapter/mpq-adapter.o drivers/media/platform/msm/dvb/adapter/mpq_adapter.o drivers/media/platform/msm/dvb/adapter/mpq_stream_buffer.o 

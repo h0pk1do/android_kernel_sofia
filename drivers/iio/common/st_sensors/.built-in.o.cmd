@@ -1,0 +1,1 @@
+cmd_drivers/iio/common/st_sensors/built-in.o :=  rm -f drivers/iio/common/st_sensors/built-in.o; /home/justin/kernel/toolchain/bin/aarch64-linux-android-ar rcSTPD drivers/iio/common/st_sensors/built-in.o

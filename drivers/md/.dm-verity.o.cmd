@@ -1,0 +1,1 @@
+cmd_drivers/md/dm-verity.o :=  rm -f drivers/md/dm-verity.o; /home/justin/kernel/toolchain/bin/aarch64-linux-android-ar rcSTPD drivers/md/dm-verity.o drivers/md/dm-verity-fec.o drivers/md/dm-verity-target.o 

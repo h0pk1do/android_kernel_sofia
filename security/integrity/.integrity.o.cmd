@@ -1,0 +1,1 @@
+cmd_security/integrity/integrity.o :=  rm -f security/integrity/integrity.o; /home/justin/kernel/toolchain/bin/aarch64-linux-android-ar rcSTPD security/integrity/integrity.o security/integrity/iint.o security/integrity/integrity_audit.o 

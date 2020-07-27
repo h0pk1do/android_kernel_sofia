@@ -1,0 +1,9 @@
+kernel/drivers/clk/qcom/clk-qcom.ko
+kernel/drivers/clk/qcom/clk-cpu-osm.ko
+kernel/drivers/clk/qcom/clk-smd-rpm.ko
+kernel/drivers/clk/qcom/debugcc-trinket.ko
+kernel/drivers/clk/qcom/dispcc-trinket.ko
+kernel/drivers/clk/qcom/gcc-trinket.ko
+kernel/drivers/clk/qcom/gpucc-trinket.ko
+kernel/drivers/clk/qcom/videocc-trinket.ko
+kernel/drivers/clk/qcom/clk-spmi-pmic-div.ko

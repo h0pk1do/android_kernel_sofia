@@ -1,0 +1,33 @@
+!<thin>
+//                                              274       `
+irqchip.o/
+irq-gic.o/
+irq-gic-common.o/
+irq-gic-v2m.o/
+irq-gic-v3.o/
+irq-gic-v3-its.o/
+irq-gic-v3-its-pci-msi.o/
+irq-gic-v3-its-platform-msi.o/
+irq-gic-v4.o/
+irq-partition-percpu.o/
+msm_show_resume_irq.o/
+qcom/mpm.o/
+qcom/mpm-8937.o/
+qcom/mpm-qcs405.o/
+qcom/mpm-trinket.o/
+
+/0              0           0     0     644     4080      `
+/11             0           0     0     644     322464    `
+/22             0           0     0     644     21464     `
+/40             0           0     0     644     189504    `
+/55             0           0     0     644     360032    `
+/69             0           0     0     644     534784    `
+/87             0           0     0     644     153904    `
+/113            0           0     0     644     137376    `
+/144            0           0     0     644     80840     `
+/158            0           0     0     644     148392    `
+/182            0           0     0     644     22648     `
+/205            0           0     0     644     372032    `
+/217            0           0     0     644     3936      `
+/234            0           0     0     644     3936      `
+/253            0           0     0     644     4200      `

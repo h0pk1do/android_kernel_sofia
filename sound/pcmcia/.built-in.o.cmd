@@ -1,0 +1,1 @@
+cmd_sound/pcmcia/built-in.o :=   rm -f sound/pcmcia/built-in.o; /home/justin/kernel/toolchain/bin/aarch64-linux-android-ar rcSTPD sound/pcmcia/built-in.o sound/pcmcia/vx/built-in.o sound/pcmcia/pdaudiocf/built-in.o 

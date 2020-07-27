@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-core/built-in.o :=   rm -f drivers/media/dvb-core/built-in.o; /home/justin/kernel/toolchain/bin/aarch64-linux-android-ar rcSTPD drivers/media/dvb-core/built-in.o drivers/media/dvb-core/dvb-core.o 

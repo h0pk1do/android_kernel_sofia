@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/built-in.o :=   rm -f drivers/input/misc/built-in.o; /home/justin/kernel/toolchain/bin/aarch64-linux-android-ar rcSTPD drivers/input/misc/built-in.o drivers/input/misc/qpnp-power-on.o drivers/input/misc/uinput.o 

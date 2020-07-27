@@ -1,0 +1,37 @@
+!<thin>
+//                                              250       `
+psci.o/
+dmi_scan.o/
+dmi-id.o/
+qcom_scm.o/
+qcom_scm-64.o/
+efi/efi.o/
+efi/vars.o/
+efi/reboot.o/
+efi/memattr.o/
+efi/capsule.o/
+efi/memmap.o/
+efi/esrt.o/
+efi/runtime-wrappers.o/
+efi/libstub/lib-ksyms.o/
+efi/arm-init.o/
+efi/arm-runtime.o/
+qcom/tz_log.o/
+
+/0              0           0     0     644     195016    `
+/8              0           0     0     644     248480    `
+/20             0           0     0     644     139592    `
+/30             0           0     0     644     174544    `
+/42             0           0     0     644     139296    `
+/57             0           0     0     644     198944    `
+/68             0           0     0     644     197600    `
+/80             0           0     0     644     9504      `
+/94             0           0     0     644     121288    `
+/109            0           0     0     644     134320    `
+/124            0           0     0     644     129432    `
+/138            0           0     0     644     150904    `
+/150            0           0     0     644     56272     `
+/174            0           0     0     644     688       `
+/199            0           0     0     644     133832    `
+/215            0           0     0     644     163608    `
+/234            0           0     0     644     211752    `

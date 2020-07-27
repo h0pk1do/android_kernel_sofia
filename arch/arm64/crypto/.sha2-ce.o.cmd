@@ -1,0 +1,1 @@
+cmd_arch/arm64/crypto/sha2-ce.o :=  rm -f arch/arm64/crypto/sha2-ce.o; /home/justin/kernel/toolchain/bin/aarch64-linux-android-ar rcSTPD arch/arm64/crypto/sha2-ce.o arch/arm64/crypto/sha2-ce-glue.o arch/arm64/crypto/sha2-ce-core.o 

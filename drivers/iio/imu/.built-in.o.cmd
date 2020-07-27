@@ -1,0 +1,1 @@
+cmd_drivers/iio/imu/built-in.o :=   rm -f drivers/iio/imu/built-in.o; /home/justin/kernel/toolchain/bin/aarch64-linux-android-ar rcSTPD drivers/iio/imu/built-in.o drivers/iio/imu/bmi160/built-in.o drivers/iio/imu/inv_mpu6050/built-in.o drivers/iio/imu/st_lsm6dsx/built-in.o drivers/iio/imu/st_asm330lhh/built-in.o 

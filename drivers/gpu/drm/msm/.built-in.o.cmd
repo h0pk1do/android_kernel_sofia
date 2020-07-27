@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/msm/built-in.o :=   rm -f drivers/gpu/drm/msm/built-in.o; /home/justin/kernel/toolchain/bin/aarch64-linux-android-ar rcSTPD drivers/gpu/drm/msm/built-in.o drivers/gpu/drm/msm/msm_drm.o 

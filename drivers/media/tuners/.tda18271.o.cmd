@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/tda18271.o :=  rm -f drivers/media/tuners/tda18271.o; /home/justin/kernel/toolchain/bin/aarch64-linux-android-ar rcSTPD drivers/media/tuners/tda18271.o drivers/media/tuners/tda18271-maps.o drivers/media/tuners/tda18271-common.o drivers/media/tuners/tda18271-fe.o 

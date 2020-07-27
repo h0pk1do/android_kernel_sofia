@@ -1,0 +1,1 @@
+cmd_drivers/iio/industrialio.o :=  rm -f drivers/iio/industrialio.o; /home/justin/kernel/toolchain/bin/aarch64-linux-android-ar rcSTPD drivers/iio/industrialio.o drivers/iio/industrialio-core.o drivers/iio/industrialio-event.o drivers/iio/inkern.o 

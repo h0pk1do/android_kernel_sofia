@@ -1,0 +1,1 @@
+cmd_drivers/md/built-in.o :=   rm -f drivers/md/built-in.o; /home/justin/kernel/toolchain/bin/aarch64-linux-android-ar rcSTPD drivers/md/built-in.o drivers/md/dm-mod.o drivers/md/dm-builtin.o drivers/md/dm-bufio.o drivers/md/dm-crypt.o drivers/md/dm-default-key.o drivers/md/dm-verity.o 

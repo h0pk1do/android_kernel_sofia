@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/snd-soc-hdmi-codec.o :=  rm -f sound/soc/codecs/snd-soc-hdmi-codec.o; /home/justin/kernel/toolchain/bin/aarch64-linux-android-ar rcSTPD sound/soc/codecs/snd-soc-hdmi-codec.o sound/soc/codecs/hdmi-codec.o 

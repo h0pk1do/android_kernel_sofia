@@ -1,0 +1,1 @@
+cmd_net/bridge/br_netfilter.o := /home/justin/kernel/toolchain/bin/aarch64-linux-android-ld -EL  -maarch64linux   -r -o net/bridge/br_netfilter.o net/bridge/br_netfilter_hooks.o net/bridge/br_netfilter_ipv6.o 

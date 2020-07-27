@@ -1,0 +1,33 @@
+!<thin>
+//                                              510       `
+of_touchscreen.o/
+hxchipset/himax_ic_incell_core.o/
+hxchipset/himax_ic_HX83112.o/
+hxchipset/himax_common.o/
+hxchipset/himax_platform.o/
+hxchipset/himax_debug.o/
+synaptics_tcm/synaptics_tcm_i2c.o/
+synaptics_tcm/synaptics_tcm_core.o/
+synaptics_tcm/synaptics_tcm_touch.o/
+synaptics_tcm/synaptics_tcm_device.o/
+synaptics_tcm/synaptics_tcm_testing.o/
+synaptics_tcm/synaptics_tcm_reflash.o/
+synaptics_tcm/synaptics_tcm_recovery.o/
+synaptics_tcm/synaptics_tcm_zeroflash.o/
+synaptics_tcm/synaptics_tcm_diagnostics.o/
+
+/0              0           0     0     644     137488    `
+/18             0           0     0     644     277680    `
+/52             0           0     0     644     12056     `
+/82             0           0     0     644     222144    `
+/108            0           0     0     644     231936    `
+/136            0           0     0     644     395056    `
+/161            0           0     0     644     196160    `
+/196            0           0     0     644     506120    `
+/232            0           0     0     644     289160    `
+/269            0           0     0     644     202008    `
+/307            0           0     0     644     318608    `
+/346            0           0     0     644     299400    `
+/385            0           0     0     644     197320    `
+/425            0           0     0     644     219640    `
+/466            0           0     0     644     189232    `

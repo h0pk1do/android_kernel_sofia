@@ -1,0 +1,14 @@
+kernel/drivers/input/touchscreen/of_touchscreen.ko
+kernel/drivers/input/touchscreen/hxchipset/himax_ic_incell_core.ko
+kernel/drivers/input/touchscreen/hxchipset/himax_ic_HX83112.ko
+kernel/drivers/input/touchscreen/hxchipset/himax_common.ko
+kernel/drivers/input/touchscreen/hxchipset/himax_platform.ko
+kernel/drivers/input/touchscreen/hxchipset/himax_debug.ko
+kernel/drivers/input/touchscreen/synaptics_tcm/synaptics_tcm_core.ko
+kernel/drivers/input/touchscreen/synaptics_tcm/synaptics_tcm_touch.ko
+kernel/drivers/input/touchscreen/synaptics_tcm/synaptics_tcm_device.ko
+kernel/drivers/input/touchscreen/synaptics_tcm/synaptics_tcm_testing.ko
+kernel/drivers/input/touchscreen/synaptics_tcm/synaptics_tcm_reflash.ko
+kernel/drivers/input/touchscreen/synaptics_tcm/synaptics_tcm_recovery.ko
+kernel/drivers/input/touchscreen/synaptics_tcm/synaptics_tcm_zeroflash.ko
+kernel/drivers/input/touchscreen/synaptics_tcm/synaptics_tcm_diagnostics.ko

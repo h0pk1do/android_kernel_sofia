@@ -1,0 +1,1 @@
+cmd_drivers/hwspinlock/built-in.o :=   rm -f drivers/hwspinlock/built-in.o; /home/justin/kernel/toolchain/bin/aarch64-linux-android-ar rcSTPD drivers/hwspinlock/built-in.o drivers/hwspinlock/hwspinlock_core.o drivers/hwspinlock/qcom_hwspinlock.o 
